@@ -1,3 +1,12 @@
+### howto
+- install node
+- install npm
+- dev start
+  ```
+  npm install
+  npm start
+  ```
+
 ### https://github.com/mui-org/material-ui
 ``` bash
 npm install material-ui@next
