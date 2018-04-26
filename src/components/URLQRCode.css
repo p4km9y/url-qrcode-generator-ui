@@ -1,0 +1,12 @@
+.Root {
+  margin: auto;
+  text-align: center;
+  max-width: 500px;
+}
+
+.Input {
+  width: 90%;
+}
+
+.CanvasParent {
+}
